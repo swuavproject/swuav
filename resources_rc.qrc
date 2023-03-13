@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/swav_bio" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
